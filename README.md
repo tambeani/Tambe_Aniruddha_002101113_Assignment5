@@ -10,7 +10,7 @@ Commit @ 12th November 16:38 PM
 
 Task completed: 
 
-Manage Customer for SysAdmin
-Manage DeliveryMan for SysAdmin
+1. Manage Customer for SysAdmin
+2. Manage DeliveryMan for SysAdmin
 
 **************************************************************
