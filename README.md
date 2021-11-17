@@ -14,3 +14,12 @@ Task completed:
 2. Manage DeliveryMan for SysAdmin
 
 **************************************************************
+Commit @ 17th November 00:47 AM 
+
+Task completed: 
+
+1. Manage Customer for SysAdmin
+2. Manage DeliveryMan for SysAdmin
+3. UI screen for Restaurant Admin
+
+**************************************************************
